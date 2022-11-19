@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/* header styling */
+
+header {
+  height: 100vh;
+  background-image: url(https://media.istockphoto.com/id/1018955990/photo/blue-vintage-color-trends-feather-pattern-texture-background.jpg?s=170667a&w=0&k=20&c=yr5wd6Gauw4qkWpUWI171KZoDcPIXha2gPpWmUkpFPQ=);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
