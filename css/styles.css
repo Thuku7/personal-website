@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+
+
 /* header styling */
 
 header {
@@ -16,6 +18,13 @@ header {
   
   
 }
+
+.navbar-brand, .nav-link {
+  color: whitesmoke;
+  font-size: 25px;
+}
+
+
 
 .intro {
   position: absolute;
@@ -108,7 +117,7 @@ h3 {
 @media screen and (min-width:600px){ 
   
   .intro-text {
-    font-size: 28px;
+    font-size: 35px;
     letter-spacing: 3px;
   }
   
@@ -116,7 +125,7 @@ h3 {
 
 @media only screen and (min-width: 768px) {
   .intro-text {
-    font-size: 40px;
+    font-size: 58px;
     letter-spacing: 3px;
   }
 }
