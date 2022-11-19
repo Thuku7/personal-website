@@ -78,6 +78,7 @@ h3 {
 }
 
 .about-text {
+  border: 2px solid whitesmoke;
   
   width: 600px;
   height: 500px;
