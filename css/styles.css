@@ -65,6 +65,10 @@ h3 {
   animation-duration: 3s;
 }
 
+.about {
+  height: 100vh;
+}
+
 @keyframes moveInDown {
   0% {
     opacity: 0;
