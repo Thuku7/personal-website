@@ -92,6 +92,10 @@ h3 {
   align-items: center;
 }
 
+.projects {
+  height: 100vh;
+}
+
 @keyframes moveInDown {
   0% {
     opacity: 0;
