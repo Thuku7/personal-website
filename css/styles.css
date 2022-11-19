@@ -33,3 +33,25 @@ header {
 h2, h3 {
   text-align: center;
 }
+
+h2 {
+  animation-name: moveInDown;
+  animation-duration: 5s;
+}
+
+@keyframes moveInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-100px);
+
+  }
+
+
+
+  100% {
+    opacity: 1;
+    transform: translate(0);
+
+  }
+  
+}
