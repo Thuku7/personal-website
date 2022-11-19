@@ -23,3 +23,13 @@ header {
   transform: translate(-50%,-50%);
 
 }
+
+.intro-text {
+  text-transform: uppercase;
+  font-size: 60px;
+  letter-spacing: 10px;
+}
+
+h2, h3 {
+  text-align: center;
+}
