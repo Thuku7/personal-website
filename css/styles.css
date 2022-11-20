@@ -266,6 +266,10 @@ button {
   }
   .project-info {
     font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
      
   }
 
@@ -297,6 +301,8 @@ button {
     font-size: 35px;
     letter-spacing: 3px;
   }
+
+  
 
 
 
