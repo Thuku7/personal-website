@@ -97,13 +97,14 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: black;
 }
 
 .cards {
   width: 30vw;
   height: 70vh;
   margin: 20px;
-  background-color: red;
+  
   border-radius: 15px;
   
 }
@@ -186,6 +187,23 @@ h3 {
     font-size: 20px;
     letter-spacing: 3px;
     
+  }
+
+  .projects {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .cards {
+    height: 70vh;
+    width: 100vw;
+  }
+
+  .project-image {
+    height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   }
 
 }
