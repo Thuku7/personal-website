@@ -26,6 +26,10 @@ header {
   font-size: 25px;
 }
 
+.button-toggler {
+  background-color: whitesmoke;
+}
+
 
 
 
@@ -221,6 +225,8 @@ button {
     background-position: center;
     background-size: cover;
   }
+
+  
 
 }
 
