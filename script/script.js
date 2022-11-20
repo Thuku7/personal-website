@@ -53,7 +53,7 @@ function hideNSeek() {
 
 function showContent () {
   about.style.display = "flex";
-  projects.style.display = "flex";
+  projects.style.display = "flex";gi
 
 }
 
