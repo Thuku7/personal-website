@@ -100,8 +100,8 @@ h3 {
 }
 
 .cards {
-  width: 30%;
-  height: 70%;
+  width: 30vw;
+  height: 70vh;
   margin: 20px;
   background-color: red;
   border-radius: 15px;
@@ -187,7 +187,7 @@ h3 {
     letter-spacing: 3px;
     
   }
-  
+
 }
 
 @media screen and (min-width:600px){ 
@@ -196,6 +196,8 @@ h3 {
     font-size: 35px;
     letter-spacing: 3px;
   }
+
+  
   
 }
 
@@ -213,6 +215,8 @@ h3 {
     letter-spacing: 3px;
   }
 }
+
+
 
 
 
