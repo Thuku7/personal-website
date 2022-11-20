@@ -94,7 +94,12 @@ h3 {
 
 .projects {
   height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+
 
 @keyframes moveInDown {
   0% {
