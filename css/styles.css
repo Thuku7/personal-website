@@ -78,7 +78,7 @@ h3 {
 }
 
 .about-text {
-  border: 2px solid whitesmoke;
+  
   
   width: 600px;
   height: 500px;
@@ -97,7 +97,10 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.911);
+  color: white;
+  
+  
 }
 
 .cards {
@@ -106,6 +109,7 @@ h3 {
   margin: 20px;
   
   border-radius: 15px;
+  border: 2px grey solid;
   
 }
 
@@ -206,6 +210,14 @@ h3 {
     background-size: cover;
   }
 
+}
+
+.project-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
 }
 
 @media screen and (min-width:600px){ 
