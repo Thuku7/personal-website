@@ -256,7 +256,7 @@ button {
     border-radius: 15px 15px 0 0;
   }
   .cards {
-    width: 60vw;
+    width: 80vw;
     height: 40vh;
     margin: 3px;
     
@@ -272,6 +272,10 @@ button {
     align-items: center;
      
   }
+
+  
+
+  
 
   .about-text {
     font-size: 16px;
