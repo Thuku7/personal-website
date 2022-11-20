@@ -12,7 +12,7 @@ eventListener();
 
 function eventListener() {
 
-  nameSelector.addEventListener('click', changeTxt);
+  nameSelector.addEventListener('mouseover', changeTxt);
 }
 
 
