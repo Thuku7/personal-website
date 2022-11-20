@@ -30,7 +30,7 @@ function changeTxt(event) {
 
   let newTxt = document.createElement('h1');
   newTxt.classList = 'my-name intro-text';
-  newTxt.appendChild(document.createTextNode("Web Developer"));
+  newTxt.appendChild(document.createTextNode(" A Web Developer"));
 
   const oldHeading = nameSelector;
 
