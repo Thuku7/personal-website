@@ -142,6 +142,15 @@ h3 {
 }
 
 
+button {
+  width: 130px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.911);
+  color: white;
+  border-radius: 15px;
+  padding: 7px;
+}
+
 
 @keyframes moveInDown {
   0% {
